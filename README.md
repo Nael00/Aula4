@@ -1,3 +1,3 @@
 # Aula 4
 
-![](https://pin.it/7jB8qR6nD)
+![](https://tenor.com/pt-BR/view/thousand-yard-stare-gif-13553420932022856054)
