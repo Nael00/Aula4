@@ -1,4 +1,4 @@
 #Aula 4
 
-triângulo $ a= A\{b.h} {2}$
+triângulo $a=A\{b.h}{2}$
 
