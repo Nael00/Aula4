@@ -36,4 +36,8 @@ Trapézio $A=\frac{(B+b).h}{2}$
 
 círculo $A\pi.r²$
 
-A:
+A:área
+
+B:base
+
+H:altura
