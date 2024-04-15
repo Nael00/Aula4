@@ -8,4 +8,4 @@ B:base
 
 H:altura
 
-Quadrado A$
+Quadrado $A=L²$
