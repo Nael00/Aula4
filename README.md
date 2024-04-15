@@ -1,6 +1,6 @@
 #Aula 4
 
-Triângulo $  a=\frac{b.h}{2}$ 
+Triângulo $  A=\frac{b.h}{2}$ 
 
 A:área
 
