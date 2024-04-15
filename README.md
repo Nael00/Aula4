@@ -38,6 +38,6 @@ círculo $A\pi.r²$
 
 A:área
 
-B:base
+$\pi: constante pi(,14)
 
 H:altura
