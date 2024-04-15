@@ -40,4 +40,4 @@ A:área
 
 $\pi$ : constante pi(,14)
 
-H:altura
+R:raio
