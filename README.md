@@ -9,3 +9,11 @@ B:base
 H:altura
 
 Quadrado $A=L²$
+
+A:área
+
+B:base
+
+h:altura
+
+Losangulo $A=\frac{D.d}{2}$
