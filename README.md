@@ -33,3 +33,7 @@ B:base
 h:altura
 
 Trapézio $A=\frac{(B+b).h}{2}$
+
+círculo $A\pi.²$
+
+A:
