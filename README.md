@@ -17,3 +17,11 @@ B:base
 h:altura
 
 Losangulo $A=\frac{D.d}{2}$
+
+A:área 
+
+B:base
+
+H:altura
+
+Retângulo $A=b.h$
