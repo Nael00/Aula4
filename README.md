@@ -1,4 +1,4 @@
 #Aula 4
 
-triângulo $a=frac\{b.h}{2}$
+triângulo $a=\frac{b.h}{2}$
 
