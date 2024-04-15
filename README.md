@@ -44,7 +44,7 @@ R:raio
 
 Equação de 2 grau 
 
-${ax²+bx+c)=0$
+${ax²+bx+c}=0$
 
 Fórmula de bhaskara
 
