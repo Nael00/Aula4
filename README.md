@@ -46,16 +46,6 @@ Equação de 2 grau
 
 ${ax²+bx+c)=0$
 
-62
-
-63
-
 Fórmula de bhaskara
-
-64
-
-65
-
-66
 
 $x=\frac{-bt\sqrt{b²-4.a.c}}{2.a}$
