@@ -25,3 +25,11 @@ B:base
 H:altura
 
 Retângulo $A=b.h$
+
+A:área
+
+B:base
+
+h:altura
+
+Trapézio $A=\frac{(B+b).h}{2}$
